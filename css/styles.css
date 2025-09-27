@@ -81,6 +81,7 @@ a {
 .hero-button:hover,
 .hero-button:focus {
   cursor: pointer;
+  background-color: #404bbf;
 }
 /* #endregion */
 /* #region Adv */
